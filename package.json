@@ -1,0 +1,28 @@
+{
+  "name": "express-promise-middleware.patch",
+  "version": "1.0.0",
+  "description": "Patch express fallback lost with promisify middleware.",
+  "author": "allex <allex.wxn@gmail.com> (http://iallex.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "promise",
+    "async",
+    "await"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex/express-promise-middleware.patch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/allex/express-promise-middleware.patch/issues"
+  },
+  "peerDependencies": {
+    "express": "4.x"
+  }
+}
