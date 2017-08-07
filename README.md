@@ -4,7 +4,9 @@ Patch express fallback lost with promisify middleware.
 
 ## Usage
 
+```sh
 npm i --save express-promise-middleware.patch
+```
 
 ```js
 
